@@ -57,17 +57,17 @@ Ensure you have the following libraries installed:
 
 The final dataset, df_sentiment.csv, contains the following columns:
 
-- Title: Movie title.
+- `Title`: Movie title.
 
-- Year: Release year.
+- `Year`: Release year.
 
-- Synopsis: Movie synopsis.
+- `Synopsis`: Movie synopsis.
 
-- Review: Movie review.
+- `Review`: Movie review.
 
-- Sentiment: Predicted sentiment label (Positive or Negative).
+- `Sentiment`: Predicted sentiment label (Positive or Negative).
 
-- Original Language: Original language of the review (en/fr/sp).
+- `Original Language`: Original language of the review (en/fr/sp).
 
 ---
 
