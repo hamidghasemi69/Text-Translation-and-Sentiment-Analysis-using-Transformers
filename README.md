@@ -8,32 +8,22 @@ This project focuses on analyzing the sentiment of movie reviews in three differ
 
 ## Project Overview
 
-- **Objective**: Analyze the sentiment of movie reviews in English, French, and Spanish.
-- **Steps**:
-  1. **Data Integration**: Combine reviews from different languages into a single dataset.
-  2. **Translation**: Translate French and Spanish reviews into English.
-  3. **Sentiment Analysis**: Perform sentiment analysis on the combined dataset.
+- **`Objective`**: Analyze the sentiment of movie reviews in English, French, and Spanish.
+- **`Steps`**:
+  1. **`Data Integration`**: Combine reviews from different languages into a single dataset.
+  2. **`Translation`**: Translate French and Spanish reviews into English.
+  3. **`Sentiment Analysis`**: Perform sentiment analysis on the combined dataset.
 
 ---
 
 ## Repository Structure
 
-- **project.ipynb** — Jupyter notebook containing the complete workflow.
-- **movie_reviews_eng.csv** — English movie reviews dataset.
-- **movie_reviews_fr.csv** — French movie reviews dataset.
-- **movie_reviews_sp.csv** — Spanish movie reviews dataset.
-- **df_sentiment.csv** — Final dataset with sentiment labels.
-- **README.md** — This file.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install torch torchvision transformers pandas`
+- **`project.ipynb`** — Jupyter notebook containing the complete workflow.
+- **`movie_reviews_eng.csv`** — English movie reviews dataset.
+- **`movie_reviews_fr.csv`** — French movie reviews dataset.
+- **`movie_reviews_sp.csv`** — Spanish movie reviews dataset.
+- **`df_sentiment.csv`** — Final dataset with sentiment labels.
+- **`README.md`** — This file.
 
 ---
 
